@@ -1,7 +1,7 @@
 # console.h
 
 ## Example compilation
-Note the target "demoError" should fail to compile, demonstrating the requirement of defining timestamp type.
+NOTE: the target "demoError" should fail to compile, demonstrating the requirement of defining timestamp type.
 ```
 $ make -C examples 
 make: Entering directory '/src/console/examples'
