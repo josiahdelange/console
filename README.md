@@ -20,7 +20,7 @@ make: Leaving directory '/src/console/examples'
 
 # Example of using date-time timestamps
 ```
-[josiah@a0f97df6cc4e console]$ ./examples/demoDate 
+$ ./examples/demoDate 
 [2021-03-28 23:17:20] consoleDemo[main] Hello, World!
 [2021-03-28 23:17:20] consoleDemo[func1] Hola, Mundo!
 [2021-03-28 23:17:20] consoleDemo[func2] Kon'nichiwa sekai!
@@ -28,7 +28,7 @@ make: Leaving directory '/src/console/examples'
 
 # Example of using epoch timestamps
 ```
-[josiah@a0f97df6cc4e console]$ ./examples/demoEpoch 
+$ ./examples/demoEpoch 
 [1616987844785] consoleDemo[main] Hello, World!
 [1616987844785] consoleDemo[func1] Hola, Mundo!
 [1616987844785] consoleDemo[func2] Kon'nichiwa sekai!
