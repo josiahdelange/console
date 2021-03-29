@@ -1,6 +1,4 @@
-## console.h - header-only utility which prints function caller automatically
-
-# Example compilation
+## Example compilation
 Note the target "demoError" should fail to compile, demonstrating the requirement of defining timestamp type.
 ```
 $ make -C examples 
@@ -20,7 +18,7 @@ make: *** [Makefile:14: demoError] Error 1
 make: Leaving directory '/src/console/examples'
 ```
 
-# Example of using date-time timestamps
+## Example of using date-time timestamps
 ```
 $ ./examples/demoDate 
 [2021-03-28 23:17:20] consoleDemo[main] Hello, World!
@@ -28,7 +26,7 @@ $ ./examples/demoDate
 [2021-03-28 23:17:20] consoleDemo[func2] Kon'nichiwa sekai!
 ```
 
-# Example of using epoch timestamps
+## Example of using epoch timestamps
 ```
 $ ./examples/demoEpoch 
 [1616987844785] consoleDemo[main] Hello, World!
