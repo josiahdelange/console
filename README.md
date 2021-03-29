@@ -1,3 +1,5 @@
+# console.h
+
 ## Example compilation
 Note the target "demoError" should fail to compile, demonstrating the requirement of defining timestamp type.
 ```
