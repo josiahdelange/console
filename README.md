@@ -1,4 +1,6 @@
-# Compiling the examples
+## console.h - header-only utility which prints function caller automatically
+
+# Example compilation
 Note the target "demoError" should fail to compile, demonstrating the requirement of defining timestamp type.
 ```
 $ make -C examples 
